@@ -1,0 +1,2 @@
+# quick
+Bir depolama alanı.
